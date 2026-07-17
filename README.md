@@ -50,7 +50,7 @@ Hover/Active/Focus (hover state)
 ### Links
 
 - Solution URL: [Repo](https://github.com/hopiun-frontend-practice/blog-preview-card.git)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://hopiun-frontend-practice.github.io/blog-preview-card/)
 
 ## My process
 
